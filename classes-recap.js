@@ -47,6 +47,7 @@ const salwa = new Instructor(
   "React (the love of my life)"
 );
 salwa.sayHello();
+console.log(salwa.role);
 
 const athbi = new Instructor("Athbi", [
   "Movies",
