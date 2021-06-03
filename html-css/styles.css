@@ -1,0 +1,36 @@
+h1{
+    color:#3a86ff;
+    text-align:center ; 
+    border: 5px solid yellow;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+/* comment */
+p, h2{
+    color: purple;
+}
+
+.restnt{
+    font-style: italic;
+}
+
+ol{
+font-family: monospace;
+}
+
+li{
+    margin: 10px;
+  padding: 5px;
+}
+
+#myfavMusic{
+color: blue;
+font-size: 30;
+}
+
+img{
+    border: 20px solid blue;
+    padding: 20px;
+    margin-top: 20px;
+}
+
